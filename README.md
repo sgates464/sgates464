@@ -3,8 +3,6 @@
 
 # ⛳️ 🏌🏻‍♂️  🎮 🧑🏽‍💻  🏈  🐕‍🦺
 
-Looking for a new awesome job!
-[Resume](https://resume.io/r/CbCSM6hF1)
 
 # Toolbox 🧰
 **Languages | Libraries | Frameworks ⌨️**
